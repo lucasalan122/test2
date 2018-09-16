@@ -20,8 +20,6 @@
   <preference name="android-installLocation" value="auto"/>
 
 
-  <gap:plugin name="org.apache.cordova.geolocation"/>
-
   <icon src="icon.png"/>
   <icon src="www/res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
   <icon src="www/res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:qualifier="mdpi"/>
